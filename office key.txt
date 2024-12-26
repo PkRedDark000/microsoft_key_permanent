@@ -1,0 +1,5 @@
+open power shell admin 
+
+copy to irm https://get.activated.win | iex
+
+irm https://get.activated.win | iex
