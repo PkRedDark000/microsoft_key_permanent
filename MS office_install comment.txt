@@ -1,0 +1,29 @@
+https://www.microsoft.com/en-us/download/details.aspx?id=49117
+
+https://config.office.com/deploymentsettings
+ 
+https://www.youtube.com/watch?v=36VPZmbz-cc  --youtube link step by step
+
+c: new folder MS Office 2021
+
+download two files copy to ms office 2021
+
+windows install office deploymanttool
+
+run admin cd 
+
+cd c:\MS Office 2021
+setup.exe /download configuration.xml
+setup.exe /configure configuration.xml
+
+office install fins
+
+admin cmd run
+cd c:\Program Files\Microsoft Office\Office16
+cscript ospp.vbs /sethst:kms.03k.org
+cscript ospp.vbs /act
+
+open office product activated
+install admin
+
+
