@@ -28,4 +28,12 @@ All contents provided by this channel  for GENERAL AND EDUCATIONAL PURPOSE ONLY.
 Copyright disclaimer under section 107 of the copyright act 1976,allowance is made for "fair use policy" for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
 
 
-irm https://get.activated.win | iex
+Microsoft Activation Scripts (MAS)
+1.Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select PowerShell or Terminal.
+2.Copy and paste the code below and press enter
+
+3.irm https://get.activated.win | iex
+4.irm https://massgrave.dev/get | iex
+
+5.You will see the activation options. Choose (1) HWID for Windows activation. Choose (2) Ohook for Office activation.
+6.That's all
