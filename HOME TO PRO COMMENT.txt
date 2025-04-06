@@ -1,7 +1,11 @@
+step 1
 Dism /Online /GET-TargetEditions
 
+step 2
 sc config LicenseManager start= auto & net start LicenseManager
 
+step 3
 sc config wuauserv start= auto & net start wuauserv
 
+step 4
 changepk.exe /productkey VK7JG-NPHTM-C97JM-9MPGT-3V66T
