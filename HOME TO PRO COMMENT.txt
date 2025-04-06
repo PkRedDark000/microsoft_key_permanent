@@ -1,3 +1,4 @@
+open Administartor CMD
 step 1
 Dism /Online /GET-TargetEditions
 
